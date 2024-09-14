@@ -1,4 +1,3 @@
-# Text_Generator
 **Nume: Baranga Roxana Mary**
 **Grupă: 311CA**
  ## Tema 1 - Analiza datelor
